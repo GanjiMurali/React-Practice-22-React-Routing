@@ -1,0 +1,25 @@
+/* Write your CSS code here */
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+
+.about-text {
+  font-family: 'Roboto';
+  font-size: 52px;
+  color: #551e53;
+}
+
+.about-img {
+  height: 280px;
+  width: 250px;
+}
+
+.about-para {
+  font-weight: 'Roboto';
+  color: #555555;
+  font-size: 20px;
+}
